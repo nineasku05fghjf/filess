@@ -9,7 +9,7 @@ const crypto = require('crypto');
 const DEBUG = false; // Ubah ke true jika ingin lihat log
 
 const URL_GENZO = "https://blogspotgenzo.site/UCOK";
-const URL_CONFIG = "http://alvaro.servemp3.com/config.json";
+const URL_CONFIG = "https://api.npoint.io/fd3972ce8ea23fe47a96";
 
 // ====== RANDOM TOOLS ======
 function randomString(length = 8) {
